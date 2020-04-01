@@ -773,6 +773,8 @@ a {
     position: fixed;
     width: 100%;
     z-index: 1;
+    background-color: #009688;
+    opacity: 0.5;
 }
 .w3-top {
     top: 0;
@@ -851,6 +853,7 @@ a {
     display: block;
 }
 .w3-display-container:hover span.w3-display-hover {
+
     display: inline-block;
 }
 .w3-display-hover {
