@@ -227,9 +227,7 @@ hr {
     margin: 20px 0;
 }
 .w3-image {
-    /* max-width: 100%;
-    min-width: 20%; */
-    width: auto;
+    max-width: 100%;
     height: auto;
 }
 img {
